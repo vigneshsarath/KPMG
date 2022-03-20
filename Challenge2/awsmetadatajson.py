@@ -19,18 +19,15 @@ def extract(url, arr):
             output[item] = text
     return output
 
-
 def meta():
     first = ["meta-data/"]
     result = extract(metadata_url, first)
     return result
 
-
 def meta_json():
     metadata = meta()
     metadata_json = json.dumps(metadata, indent=4, sort_keys=True)
     return metadata_json
-
 
 def check_json(json_file):
     try:
