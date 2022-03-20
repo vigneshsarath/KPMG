@@ -24,6 +24,6 @@ Hints - We would like to see some tests. A quick read to help you along the way.
 
 My local execution ouptut as below, where I have shown the file contents and execution results (Getting the key output and test results):
 
-![image](https://user-images.githubusercontent.com/38080447/159128141-eded675a-3bd1-40df-956d-34d9c2f522c6.png)
+![image](https://user-images.githubusercontent.com/38080447/159184117-89cd6580-5717-48f5-8929-0065bc785273.png)
 
 
